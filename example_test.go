@@ -23,7 +23,7 @@ package atomic_test
 import (
 	"fmt"
 
-	"go.uber.org/atomic"
+	"github.com/p9ds/atomic"
 )
 
 func Example() {

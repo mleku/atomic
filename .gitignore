@@ -13,3 +13,7 @@ lint.log
 
 # Output of fossa analyzer
 /fossa
+/.idea/.gitignore
+/.idea/atomic.iml
+/.idea/modules.xml
+/.idea/vcs.xml
