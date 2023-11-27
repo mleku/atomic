@@ -23,7 +23,7 @@ package atomic_test
 import (
 	"fmt"
 
-	"github.com/p9ds/atomic"
+	"github.com/mleku/atomic"
 )
 
 func Example() {
